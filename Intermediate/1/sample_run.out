@@ -1,0 +1,163 @@
+What would you like to do?
+1. Show day's events
+2. Add event
+3. Remove event
+4. Edit event
+5. Help
+6. Exit
+1
+0:00 - EMPTY
+1:00 - EMPTY
+2:00 - EMPTY
+3:00 - EMPTY
+4:00 - EMPTY
+5:00 - EMPTY
+6:00 - EMPTY
+7:00 - EMPTY
+8:00 - EMPTY
+9:00 - EMPTY
+10:00 - EMPTY
+11:00 - EMPTY
+12:00 - EMPTY
+13:00 - EMPTY
+14:00 - EMPTY
+15:00 - EMPTY
+16:00 - EMPTY
+17:00 - EMPTY
+18:00 - EMPTY
+19:00 - EMPTY
+20:00 - EMPTY
+21:00 - EMPTY
+22:00 - EMPTY
+23:00 - EMPTY
+=========================
+
+
+What would you like to do?
+1. Show day's events
+2. Add event
+3. Remove event
+4. Edit event
+5. Help
+6. Exit
+2
+What is the name of the even you would like to add?
+Bowling
+When does the event start?
+17
+How many hours will the event last?
+3
+=========================
+
+
+What would you like to do?
+1. Show day's events
+2. Add event
+3. Remove event
+4. Edit event
+5. Help
+6. Exit
+4
+What event would you like to edit?
+Bowling
+What would you like to edit?
+1. Event name
+2. Event time and length
+1
+What would you like to rename the event to?
+Bowling Semis
+=========================
+
+
+What would you like to do?
+1. Show day's events
+2. Add event
+3. Remove event
+4. Edit event
+5. Help
+6. Exit
+4
+What event would you like to edit?
+Bowling Semis
+What would you like to edit?
+1. Event name
+2. Event time and length
+2
+When does the event start?
+19
+How many hours will the event last?
+3
+=========================
+
+
+What would you like to do?
+1. Show day's events
+2. Add event
+3. Remove event
+4. Edit event
+5. Help
+6. Exit
+1
+0:00 - EMPTY
+1:00 - EMPTY
+2:00 - EMPTY
+3:00 - EMPTY
+4:00 - EMPTY
+5:00 - EMPTY
+6:00 - EMPTY
+7:00 - EMPTY
+8:00 - EMPTY
+9:00 - EMPTY
+10:00 - EMPTY
+11:00 - EMPTY
+12:00 - EMPTY
+13:00 - EMPTY
+14:00 - EMPTY
+15:00 - EMPTY
+16:00 - EMPTY
+17:00 - EMPTY
+18:00 - EMPTY
+19:00 - Bowling Semis
+20:00 - Bowling Semis
+21:00 - Bowling Semis
+22:00 - EMPTY
+23:00 - EMPTY
+=========================
+
+
+What would you like to do?
+1. Show day's events
+2. Add event
+3. Remove event
+4. Edit event
+5. Help
+6. Exit
+3
+What event would you like to remove?
+Bowling Semis
+=========================
+
+
+What would you like to do?
+1. Show day's events
+2. Add event
+3. Remove event
+4. Edit event
+5. Help
+6. Exit
+5
+This program the events of a day by hour. You can add, remove or edit events.
+Event times cannot conflict with each other.
+=========================
+
+
+What would you like to do?
+1. Show day's events
+2. Add event
+3. Remove event
+4. Edit event
+5. Help
+6. Exit
+6
+
+Process finished with exit code 0

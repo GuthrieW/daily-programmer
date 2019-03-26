@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b3e19c1-e9ab-46b0-86a9-f7b2d3959a1b" name="Default Changelist" comment="" />
+    <list default="true" id="6b3e19c1-e9ab-46b0-86a9-f7b2d3959a1b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/1/challenge-#1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/1/challenge-#1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/1/user_information.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/1/user_information.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/1/challenge-#1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/1/challenge-#1.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,13 +15,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Intermediate/1/challenge-#1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Easy/1/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="45">
+                <caret line="3" column="88" selection-start-line="3" selection-start-column="88" selection-end-line="3" selection-end-column="88" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Easy/1/sample_run.out">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Intermediate/1/challenge-#1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="19" column="36" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Easy/1/challenge-#1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Easy/1/user_information.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -24,7 +64,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="75">
-                <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+                <caret line="5" selection-start-line="5" selection-end-line="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -40,16 +80,22 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>raw_input</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Easy/1/readme.md" />
-        <option value="$PROJECT_DIR$/Easy/1/challenge-#1.py" />
         <option value="$PROJECT_DIR$/Intermediate/1/readme.md" />
         <option value="$PROJECT_DIR$/Intermediate/1/challenge-#1.py" />
+        <option value="$PROJECT_DIR$/Easy/1/challenge-#1.py" />
+        <option value="$PROJECT_DIR$/Easy/1/readme.md" />
+        <option value="$PROJECT_DIR$/Easy/1/sample_run.out" />
       </list>
     </option>
   </component>
@@ -89,12 +135,6 @@
               <item name="daily-programmer" type="b2602c69:ProjectViewProjectNode" />
               <item name="daily-programmer" type="462c0819:PsiDirectoryNode" />
               <item name="Intermediate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="daily-programmer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="daily-programmer" type="462c0819:PsiDirectoryNode" />
-              <item name="Intermediate" type="462c0819:PsiDirectoryNode" />
-              <item name="1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -182,12 +222,12 @@
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11584699" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11584699" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -202,9 +242,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Easy/1/user_information.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -213,10 +250,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Intermediate/1/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intermediate/1/challenge-#1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/1/user_information.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Easy/1/challenge-#1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="15">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -230,20 +287,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Intermediate/1/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Intermediate/1/challenge-#1.py">
+    <entry file="file://$PROJECT_DIR$/Easy/1/sample_run.out">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>

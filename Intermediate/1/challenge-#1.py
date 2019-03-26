@@ -17,10 +17,10 @@ def main():
         if action == SHOW_EVENTS:
             show_events(events)
         elif action == ADD_EVENT:
-            event_to_add = raw_input("What is the name of the even you would like to add?")
+            event_to_add = raw_input("What is the name of the even you would like to add?\n")
             events = add_event(events, event_to_add)
         elif action == REMOVE_EVENT:
-            event_to_remove = raw_input("What event would you like to remove?")
+            event_to_remove = raw_input("What event would you like to remove?\n")
             events = remove_event(events, event_to_remove)
         elif action == EDIT_EVENT:
             events = edit_event(events)
@@ -40,8 +40,8 @@ def show_events(events):
 
 def add_event(events, event_to_add):
     while True:
-        start_time = raw_input("When does the event start? ")
-        hours = raw_input("How many hours will the event last? ")
+        start_time = raw_input("When does the event start?\n")
+        hours = raw_input("How many hours will the event last?\n")
         if start_time.isdigit() and \
                 hours.isdigit() and \
                 -1 < int(start_time) < 24 and \
@@ -67,7 +67,7 @@ def remove_event(events, event_to_remove):
 
 
 def edit_event(events):
-    event_to_edit = raw_input("What event would you like to edit?")
+    event_to_edit = raw_input("What event would you like to edit?\n")
     while True:
         print("What would you like to edit?")
         print("1. Event name")
@@ -77,7 +77,7 @@ def edit_event(events):
             break
 
     if int(action) == EDIT_EVENT_NAME:
-        new_event_name = raw_input("What would you like to rename the event to?")
+        new_event_name = raw_input("What would you like to rename the event to?\n")
         for hour in range(24):
             if events[hour] == event_to_edit:
                 events[hour] = new_event_name
@@ -90,7 +90,7 @@ def edit_event(events):
 
 def help():
     print("This program the events of a day by hour. You can add, remove or edit events.\n"
-          "Event times cannot conflict with each other.")
+          "Event times cannot conflict with each other. ")
 
 
 def print_menu():
