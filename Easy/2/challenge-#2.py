@@ -1,5 +1,5 @@
 def main():
-    print("This program calculates an object's force (F), mass (M) or acceleration given both of the"
+    print("This program calculates an object's force (F), mass (M) or acceleration (A) given both of the"
           "other two variables.")
     while True:
         calculate = raw_input("What would you like to calculate: F, M or A? ")
