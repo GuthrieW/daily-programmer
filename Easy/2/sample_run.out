@@ -1,0 +1,5 @@
+This program calculates an object's force (F), mass (M) or acceleration given both of theother two variables.
+What would you like to calculate: F, M or A? F
+What is the object's rate of acceleration in meters per second squared? 300
+What is the mass of the object in kilograms? 15
+The amount of force the object is exerting is 4500 Newtons.
