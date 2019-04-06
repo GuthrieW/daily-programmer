@@ -67,7 +67,7 @@ def remove_event(events, event_to_remove):
 
 
 def edit_event(events):
-    event_to_edit = raw_input("What event would you like to edit?\n")
+    event_to_edit = input("What event would you like to edit?\n")
     while True:
         print("What would you like to edit?")
         print("1. Event name")
