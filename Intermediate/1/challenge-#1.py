@@ -40,8 +40,8 @@ def show_events(events):
 
 def add_event(events, event_to_add):
     while True:
-        start_time = raw_input("When does the event start?\n")
-        hours = raw_input("How many hours will the event last?\n")
+        start_time = input("When does the event start?\n")
+        hours = input("How many hours will the event last?\n")
         if start_time.isdigit() and \
                 hours.isdigit() and \
                 -1 < int(start_time) < 24 and \
@@ -72,12 +72,12 @@ def edit_event(events):
         print("What would you like to edit?")
         print("1. Event name")
         print("2. Event time and length")
-        action = raw_input()
+        action = input()
         if action.isdigit() and 0 < int(action) < 3:
             break
 
     if int(action) == EDIT_EVENT_NAME:
-        new_event_name = raw_input("What would you like to rename the event to?\n")
+        new_event_name = input("What would you like to rename the event to?\n")
         for hour in range(24):
             if events[hour] == event_to_edit:
                 events[hour] = new_event_name
@@ -103,7 +103,7 @@ def print_menu():
         print("5. Help")
         print("6. Exit")
 
-        action = raw_input()
+        action = input()
         if action.isdigit():
             if 0 < int(action) < 7:
                 break

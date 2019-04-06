@@ -1,7 +1,7 @@
 def main():
-    name = raw_input("What is your name? ")
-    age = raw_input("How old are you? ")
-    reddit_username = raw_input("What is your reddit username? ")
+    name = input("What is your name? ")
+    age = input("How old are you? ")
+    reddit_username = input("What is your reddit username? ")
     save_to_file(name, age, reddit_username)
     print("your name is {}, you are {} years old, and your username is {}".format(name, age, reddit_username))
 

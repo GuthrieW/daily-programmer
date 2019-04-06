@@ -1,5 +1,3 @@
-import random
-
 def main():
 	print("Choose a number between 1 and 100. I'm going to start with 50 as my guess.")
 	current_guess = 50
@@ -21,8 +19,6 @@ def main():
 			print("This is awkward... You told me my guess was {}.\nI'm not sure what to do so I'm going to stop playing.".format(answer))
 			exit(1)
 
-	print("The random number is {}".format(current_guess))
-
 
 def check_guess(current_guess):
 	while True:
@@ -31,6 +27,7 @@ def check_guess(current_guess):
 			break
 
 	return answer
+
 
 if __name__ == '__main__':
 	main()

@@ -2,7 +2,7 @@ def main():
     print("This program calculates an object's force (F), mass (M) or acceleration (A) given both of the"
           "other two variables.")
     while True:
-        calculate = raw_input("What would you like to calculate: F, M or A? ")
+        calculate = input("What would you like to calculate: F, M or A? ")
         if calculate.lower() == "f" or calculate.lower() == "m" or calculate.lower() == "a":
             break
     if calculate == "F":
@@ -23,7 +23,7 @@ def main():
 
 def get_numerical_input(question):
     while True:
-        value = raw_input(question)
+        value = input(question)
         if value.isdigit():
             break
 
