@@ -1,8 +1,7 @@
 Your lap time(s) were:
-Lap 0: 4 second(s)
-Lap 1: 6 second(s)
-Lap 2: 4 second(s)
-Lap 3: 11 second(s)
+Lap 1: 2 second(s)
+Lap 2: 5 second(s)
+Lap 3: 8 second(s)
 Lap 4: 2 second(s)
-Lap 5: 5 second(s)
-Total elapsed time: 33 second(s).
+Lap 5: 3 second(s)
+Total elapsed time: 22 second(s).

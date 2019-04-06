@@ -32,7 +32,7 @@ def main():
         if len(laps) > 0:
             output_string += "Your lap time(s) were:\n"
             for lap_number, lap in enumerate(laps):
-                output_string += "Lap {}: {} second(s)\n".format(lap_number, lap)
+                output_string += "Lap {}: {} second(s)\n".format(lap_number + 1, lap)
 
         output_string += "Total elapsed time: {} second(s).\n".format(stop_time)
 
