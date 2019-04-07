@@ -1,0 +1,11 @@
+~/daily-programmer/Easy/3$ java CaesarCipher testing 1
+[fZ[joh
+testing
+
+~/daily-programmer/Easy/3$ java CaesarCipher testing 10
+docdY^W
+testing
+
+~/daily-programmer/Easy/3$ java CaesarCipher kittycat 10
+[Yddimkd
+kittycat
